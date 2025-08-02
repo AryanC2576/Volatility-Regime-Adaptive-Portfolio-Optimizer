@@ -54,20 +54,8 @@ pip install pandas numpy matplotlib yfinance requests scipy python-dotenv
 
 The project is designed in a modular fashion to promote clarity and reusability, a key principle of good software engineering.
 
-project_root/
-├── src/                      # Core Python modules for the backtesting pipeline
-│   ├── backtester.py
-│   ├── data_fetcher.py
-│   ├── market_analyzer.py
-│   ├── metrics_calculator.py
-│   ├── portfolio_optimizer.py
-│   └── strategy_engine.py
-├── config/                   # Configuration files for the project
-│   └── settings.py
-├── data/                     # Data storage (raw and processed)
-│   └── raw_market_data.pkl
-├── main.py                   # Main entry point to run the pipeline
-└── README.md                 # This file
+<img width="471" height="253" alt="image" src="https://github.com/user-attachments/assets/6da64a6b-8566-4018-b6ae-455447f7994d" />
+
 
 #### How To Run
 
